@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mliik - abdulmalik
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development in the Odin project
+- 🌱 I’m currently learning how to build Ai infrastructures
 - 📫 You can reach me by my email 
 
 <!---
